@@ -1,5 +1,6 @@
 # リンク集
 
+
 # 参考サイト
 - CSSチートシート
   - (https://coliss.com/articles/build-websites/operation/css/css-cheatsheets-for-web-development.html)
@@ -35,3 +36,9 @@
   - Ctrl + z
 - 一つ先に進む
   - Ctrl + y
+
+<br>
+
+# その他
+  - タイトルは[]
+  - URLは()
